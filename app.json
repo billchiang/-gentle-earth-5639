@@ -1,0 +1,13 @@
+{
+  "name": "-gentle-earth-5639",
+  "scripts": {
+  },
+  "env": {
+    "DJANGO_SETTINGS_MODULE": {
+      "required": true
+    }
+  },
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
